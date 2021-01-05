@@ -1,0 +1,31 @@
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\bin\Debug\N.H Plugins Loader.dll
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\bin\Debug\N.H Plugins Loader.pdb
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\bin\Debug\Assembly-CSharp.dll
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\bin\Debug\Rocket.API.dll
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\bin\Debug\Rocket.Core.dll
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\bin\Debug\Rocket.Unturned.dll
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\bin\Debug\UnityEngine.dll
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\bin\Debug\Unturned.dll
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\obj\Debug\N.H Plugins Loader.csprojAssemblyReference.cache
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\obj\Debug\N.H Plugins Loader.csproj.CoreCompileInputs.cache
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\obj\Debug\N.H Plugins Loader.csproj.CopyComplete
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\obj\Debug\N.H Plugins Loader.dll
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\obj\Debug\N.H Plugins Loader.pdb
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\bin\Debug\N.H Plugins Loader.dll.config
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\bin\Debug\System.Interactive.Async.dll
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\bin\Debug\System.Linq.Async.dll
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\bin\Debug\System.Interactive.Async.xml
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\bin\Debug\System.Linq.Async.xml
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Berka\source\repos\N.H Plugins Loader\N.H Plugins Loader\bin\Debug\System.Threading.Tasks.Extensions.xml
